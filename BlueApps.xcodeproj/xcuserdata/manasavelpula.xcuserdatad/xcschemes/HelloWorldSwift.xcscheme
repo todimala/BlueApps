@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "43A5941C1DAEEF8100375433"
-               BuildableName = "HelloWorldSwift.app"
-               BlueprintName = "HelloWorldSwift"
-               ReferencedContainer = "container:HelloWorldSwift.xcodeproj">
+               BuildableName = "BlueApps.app"
+               BlueprintName = "BlueApps"
+               ReferencedContainer = "container:BlueApps.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "43A594301DAEEF8200375433"
-               BuildableName = "HelloWorldSwiftTests.xctest"
-               BlueprintName = "HelloWorldSwiftTests"
-               ReferencedContainer = "container:HelloWorldSwift.xcodeproj">
+               BuildableName = "BlueAppsTests.xctest"
+               BlueprintName = "BlueAppsTests"
+               ReferencedContainer = "container:BlueApps.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "43A5943B1DAEEF8200375433"
-               BuildableName = "HelloWorldSwiftUITests.xctest"
-               BlueprintName = "HelloWorldSwiftUITests"
-               ReferencedContainer = "container:HelloWorldSwift.xcodeproj">
+               BuildableName = "BlueAppsUITests.xctest"
+               BlueprintName = "BlueAppsUITests"
+               ReferencedContainer = "container:BlueApps.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "43A5941C1DAEEF8100375433"
-            BuildableName = "HelloWorldSwift.app"
-            BlueprintName = "HelloWorldSwift"
-            ReferencedContainer = "container:HelloWorldSwift.xcodeproj">
+            BuildableName = "BlueApps.app"
+            BlueprintName = "BlueApps"
+            ReferencedContainer = "container:BlueApps.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "43A5941C1DAEEF8100375433"
-            BuildableName = "HelloWorldSwift.app"
-            BlueprintName = "HelloWorldSwift"
-            ReferencedContainer = "container:HelloWorldSwift.xcodeproj">
+            BuildableName = "BlueApps.app"
+            BlueprintName = "BlueApps"
+            ReferencedContainer = "container:BlueApps.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "43A5941C1DAEEF8100375433"
-            BuildableName = "HelloWorldSwift.app"
-            BlueprintName = "HelloWorldSwift"
-            ReferencedContainer = "container:HelloWorldSwift.xcodeproj">
+            BuildableName = "BlueApps.app"
+            BlueprintName = "BlueApps"
+            ReferencedContainer = "container:BlueApps.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

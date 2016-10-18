@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:HelloWorldSwift.xcodeproj">
+      location = "self:/Users/manasavelpula/Documents/Ajay/code/IOS/HelloWorldSwift/BlueApps.xcodeproj">
    </FileRef>
 </Workspace>
